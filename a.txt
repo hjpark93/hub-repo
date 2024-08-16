@@ -3,4 +3,4 @@ b
 C (remote, hub 에서 추가)
 D
 clone 에서 편집
-
+mainClone 에서 edit
